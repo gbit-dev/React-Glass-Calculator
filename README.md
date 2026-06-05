@@ -2,7 +2,7 @@
 
 Uma calculadora moderna, interativa e responsiva construída com React e Vite, apresentando um design elegante estilo *Glassmorphism* com fundo animado.
 
-![Preview da Calculadora](./public/calculator-preview.png)
+![Preview da Calculadora](./public/Calculadora%20React.png)
 
 ## 🚀 Tecnologias Utilizadas
 
