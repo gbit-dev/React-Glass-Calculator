@@ -23,11 +23,11 @@ Siga os passos abaixo para rodar o projeto na sua máquina:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/gbit-dev/calculadora-react-vite.git
+   git clone https://github.com/gbit-dev/React-Glass-Calculator.git
    ```
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd calculadora-react-vite
+   cd React-Glass-Calculator
    ```
 3. **Instale as dependências:**
    ```bash
